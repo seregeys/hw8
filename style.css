@@ -1,0 +1,147 @@
+.articleTitle {
+
+    text-align: center;
+    width: 461px;
+    height: 83px;
+    margin: 30px auto 30px auto;
+}
+.articleContent {
+    margin-top: 54px;
+    display: flex;
+    justify-content: center;
+}
+
+.articleContent .articleBlock_1 {
+    background-color: #FFFFFF;
+    width: 400px;
+    height: 480px;
+    border: 1px solid lightgrey;
+}
+.p2 {
+    margin-top: 20px;
+    width: 106px;
+    height: 15px;
+    left: 146px;
+    top: 80px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #9FA3A7;
+}
+
+.p3 {
+    width: 210px;
+    height: 90px;
+    left: 94px;
+    top: 114px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #212121;
+}
+
+.p4 {
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    left: 90px;
+    top: 232px;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+    color: #9FA3A7;
+}
+.p5 {
+    width: 61px;
+    height: 15px;
+    left: 171.5px;
+    top: 83px;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 2.4px;
+    color: #FFC80A;
+
+}
+.p6 {
+    width: 210px;
+    height: 92px;
+    left: 94px;
+    top: 117px;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 46px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.p7 {
+    width: 210px;
+    height: 44px;
+    left: 94px;
+    top: 234px;
+    font-size: 12px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.articleContent .articleBlock_1 .articleElements {
+    margin-top: 81px;
+    margin-right: 96px;
+    margin-left: 95px;
+    width: 210px;
+    height: 324px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.articleButtonBlock {
+    margin-top: 56px;
+    margin-bottom: 75px;
+}
+
+.articleButtonBlock .articleButton {
+    width: 147px;
+    height: 46px;
+    left: 14.5px;
+    top: 8.5px;
+    border: 3px solid #FFC80A;
+    border-radius: 30px;
+
+}
+.articleContent .articleBlock_2 {
+    width: 400px;
+    height: 480px;
+    background-color: #8F75BE;
+}
+
+.articleContent .articleBlock_2 .articleElementsBlock_2 {
+    margin-top: 81px;
+    margin-right: 96px;
+    margin-left: 95px;
+    width: 210px;
+    height: 324px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.articleButtonBlock_2 {
+    margin-top: 56px;
+    margin-bottom: 75px;
+}
+
+.articleButtonBlock_2 .articleButton_2 {
+    width: 147px;
+    height: 46px;
+    left: 14.5px;
+    top: 8.5px;
+    border: 3px solid #FFC80A;
+    border-radius: 40px;
+
+}
